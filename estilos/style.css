@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkgray;
+}
+
+header {
+    background-color: rgb(92, 92, 92);
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+main {
+    background-color: lightgray;
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.411);
+}
+
+article {
+    background-color: white;
+}
