@@ -80,5 +80,16 @@ div.vid_container {
 
 .vid_container iframe {
     width: 100%;
-    height: 100;
+    height: 100%;
+    margin: 10px 0px;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(92, 92, 92);
+}
+
